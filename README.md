@@ -1,0 +1,2 @@
+# zapr
+Zapr Debugging Tool
